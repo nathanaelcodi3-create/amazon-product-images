@@ -1,0 +1,81 @@
+{
+  "version_dir": "E:\\马志林运营\\日本GPT自动化\\amazon-product-images\\jp-20260803-v2",
+  "raw_url_csv": "E:\\马志林运营\\日本GPT自动化\\amazon-product-images\\_final_delivery_20260803\\jp-20260803-v2_raw_url_list_after_supplement_20260807.csv",
+  "raw_url_json": "E:\\马志林运营\\日本GPT自动化\\amazon-product-images\\_final_delivery_20260803\\jp-20260803-v2_raw_url_list_after_supplement_20260807.json",
+  "raw_url_txt": "E:\\马志林运营\\日本GPT自动化\\amazon-product-images\\_final_delivery_20260803\\jp-20260803-v2_raw_url_list_after_supplement_20260807.txt",
+  "contact_sheet": "E:\\马志林运营\\日本GPT自动化\\amazon-product-images\\_final_delivery_20260803\\jp-20260803-v2_supplement_contact_sheet_20260807.jpg",
+  "target_sku_count": 5,
+  "target_counts": {
+    "N504P248385W": 9,
+    "N506P255891C": 9,
+    "N506P255944A": 9,
+    "WF195238FAA": 9,
+    "WF296359CAA": 9
+  },
+  "new_image_count": 10,
+  "new_urls": [
+    {
+      "sku": "N504P248385W",
+      "file": "N504P248385W+09.jpg",
+      "url": "https://raw.githubusercontent.com/nathanaelcodi3-create/amazon-product-images/main/jp-20260803-v2/N504P248385W/N504P248385W%2B09.jpg",
+      "copied_from": "N504P248385W+08.jpg"
+    },
+    {
+      "sku": "N506P255891C",
+      "file": "N506P255891C+08.jpg",
+      "url": "https://raw.githubusercontent.com/nathanaelcodi3-create/amazon-product-images/main/jp-20260803-v2/N506P255891C/N506P255891C%2B08.jpg",
+      "copied_from": "N506P255891C+06.jpg"
+    },
+    {
+      "sku": "N506P255891C",
+      "file": "N506P255891C+09.jpg",
+      "url": "https://raw.githubusercontent.com/nathanaelcodi3-create/amazon-product-images/main/jp-20260803-v2/N506P255891C/N506P255891C%2B09.jpg",
+      "copied_from": "N506P255891C+07.jpg"
+    },
+    {
+      "sku": "N506P255944A",
+      "file": "N506P255944A+08.jpg",
+      "url": "https://raw.githubusercontent.com/nathanaelcodi3-create/amazon-product-images/main/jp-20260803-v2/N506P255944A/N506P255944A%2B08.jpg",
+      "copied_from": "N506P255944A+06.jpg"
+    },
+    {
+      "sku": "N506P255944A",
+      "file": "N506P255944A+09.jpg",
+      "url": "https://raw.githubusercontent.com/nathanaelcodi3-create/amazon-product-images/main/jp-20260803-v2/N506P255944A/N506P255944A%2B09.jpg",
+      "copied_from": "N506P255944A+07.jpg"
+    },
+    {
+      "sku": "WF195238FAA",
+      "file": "WF195238FAA+08.jpg",
+      "url": "https://raw.githubusercontent.com/nathanaelcodi3-create/amazon-product-images/main/jp-20260803-v2/WF195238FAA/WF195238FAA%2B08.jpg",
+      "copied_from": "WF195238FAA+06.jpg"
+    },
+    {
+      "sku": "WF195238FAA",
+      "file": "WF195238FAA+09.jpg",
+      "url": "https://raw.githubusercontent.com/nathanaelcodi3-create/amazon-product-images/main/jp-20260803-v2/WF195238FAA/WF195238FAA%2B09.jpg",
+      "copied_from": "WF195238FAA+07.jpg"
+    },
+    {
+      "sku": "WF296359CAA",
+      "file": "WF296359CAA+07.jpg",
+      "url": "https://raw.githubusercontent.com/nathanaelcodi3-create/amazon-product-images/main/jp-20260803-v2/WF296359CAA/WF296359CAA%2B07.jpg",
+      "copied_from": "WF296359CAA+04.jpg"
+    },
+    {
+      "sku": "WF296359CAA",
+      "file": "WF296359CAA+08.jpg",
+      "url": "https://raw.githubusercontent.com/nathanaelcodi3-create/amazon-product-images/main/jp-20260803-v2/WF296359CAA/WF296359CAA%2B08.jpg",
+      "copied_from": "WF296359CAA+05.jpg"
+    },
+    {
+      "sku": "WF296359CAA",
+      "file": "WF296359CAA+09.jpg",
+      "url": "https://raw.githubusercontent.com/nathanaelcodi3-create/amazon-product-images/main/jp-20260803-v2/WF296359CAA/WF296359CAA%2B09.jpg",
+      "copied_from": "WF296359CAA+06.jpg"
+    }
+  ],
+  "size_errors": [],
+  "naming_errors": [],
+  "note": "Only missing tail images were created. Existing images were not replaced. Missing tails were copied from same-SKU existing approved images because no additional unique materials were available in the local final folders."
+}
